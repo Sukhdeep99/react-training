@@ -1,0 +1,48 @@
+.heading {
+    background-color: #3b5998;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    height: 3rem;
+    font-size: 1.1rem;
+    padding-top: 0.001rem;
+    
+}
+.outer {
+    width: 38%;
+    margin-left: 31%;
+    margin-top: 2%;
+    font-family: sans-serif;
+}
+.des h2 {
+    padding-top: 2%;
+    text-align: center;    
+}
+.des p {
+    padding-left: 5%;
+}
+.innerHeading p {
+    padding-left: 2%;
+}
+#date,#month,#year {
+    padding-left: 2%;
+    margin-left: 2%;
+    height: 2rem;
+    font-size: 1rem;
+}
+#submit {
+    background-color: #405DE6;
+    height: 2.5rem;
+    width: 60%;
+    color: white;
+    margin-top: 10%;
+    margin-left: 20%;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+.check {
+    margin-top: 5%;
+    margin-left: 2%;
+    text-decoration-style: solid;
+}
